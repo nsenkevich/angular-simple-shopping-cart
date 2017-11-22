@@ -1,9 +1,9 @@
-import { Injectable } from "@angular/core";
-import { Http } from "@angular/http";
-import { Product } from "app/models/product.model";
+import {Injectable} from "@angular/core";
+import {Http} from "@angular/http";
+import {Product} from "app/models/product.model";
 import "rxjs/add/operator/map";
-import { Observable } from "rxjs/Observable";
-import { CachcingServiceBase } from "./caching.service";
+import {Observable} from "rxjs/Observable";
+import {CachcingServiceBase} from "./caching.service";
 
 let count = 0;
 

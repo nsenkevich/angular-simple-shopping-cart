@@ -1,0 +1,30 @@
+[
+  {
+    "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
+    "name": "Carpentry",
+    "sub-category": [
+      {
+        "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
+        "name": "Doors"
+      },
+      {
+        "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
+        "name": "Windows"
+      }
+    ]
+  },
+  {
+    "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
+    "name": "Plumbing",
+    "sub-category": [
+
+    ]
+  },
+  {
+    "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
+    "name": "Electrics",
+    "sub-category": [
+
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
+    "name": "Diagnostic",
+    "description": "If you have an unknown problem and you need someone to diagnose it."
+  },
+  {
+    "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
+    "name": "Repairs",
+    "description": "Know what's wrong ? We can fix it"
+  },
+  {
+    "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
+    "name": "Servicing",
+    "description": "We offer full, major, interim and scheduled servicing."
+  },
+  {
+    "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
+    "name": "Certifications",
+    "description": "Need a Certification? Gas/electric/foundation/structure certifications."
+  },
+  {
+    "id": "9aa113b4-1e4e-4cde-bf9d-8358fc78ea4f",
+    "name": "Pre-purchase",
+    "description": "Have a inspector check a house you are thinking of buying."
+  }
+]
